@@ -1,0 +1,2 @@
+(this.webpackJsonpreact=this.webpackJsonpreact||[]).push([[0],{13:function(t,e,c){},15:function(t,e,c){"use strict";c.r(e);var n=c(1),r=c(3),o=(c(13),c(4)),s=c.n(o),a=c(0);var i=function(){return Object(a.jsx)("div",{className:"todo-app",children:Object(a.jsx)(s.a,{})})},j=document.getElementById("root");Object(r.createRoot)(j).render(Object(a.jsx)(n.StrictMode,{children:Object(a.jsx)(i,{})}))},4:function(t,e){}},[[15,1,2]]]);
+//# sourceMappingURL=main.d0ade28c.chunk.js.map
